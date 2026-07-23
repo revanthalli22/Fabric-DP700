@@ -1,1 +1,1 @@
-This is an auto-created file for Fabricspac
+Fabric workspace Git integration
